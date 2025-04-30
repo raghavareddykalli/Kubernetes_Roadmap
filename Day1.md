@@ -4,17 +4,17 @@ In this session, we begin our journey with Kubernetes.
 
 ## Key Points Covered:
 
-Kubernetes is Easy: Many people are intimidated by Kubernetes, but it’s simpler than it appears if your basics are clear.
+-Kubernetes is Easy: Many people are intimidated by Kubernetes, but it’s simpler than it appears if your basics are clear.
 
-Focus on Kubernetes for DevOps Careers: CI/CD is popular but Kubernetes is essential.
+-Focus on Kubernetes for DevOps Careers: CI/CD is popular but Kubernetes is essential.
 
- Long-Term DevOps Journey: Learning just CI/CD may get you initial roles like build/release engineer, but for a solid DevOps career, Kubernetes is crucial.
+-Long-Term DevOps Journey: Learning just CI/CD may get you initial roles like build/release engineer, but for a solid DevOps career, Kubernetes is crucial.
 
-Prerequisite - Docker: Before learning Kubernetes, you must understand Docker and containers deeply (from basics to security, networking isolation, namespaces, multi-stage builds, etc.).
+-Prerequisite - Docker: Before learning Kubernetes, you must understand Docker and containers deeply (from basics to security, networking isolation, namespaces, multi-stage builds, etc.).
 
 ## Why Kubernetes?
 
-Docker vs Kubernetes:
+**Docker vs Kubernetes:**
 
 -Docker is a container platform that helps manage container lifecycle.
 
@@ -49,21 +49,21 @@ In this session, we begin our journey with Kubernetes.
 
 ## Additional Insights:
 
-Cluster Nature:
+**Cluster Nature:**
 
 Kubernetes always runs as a cluster (master and worker nodes) in production setups.
 
-Architecture:
+**Architecture:**
 
 Kubernetes has components like API server, controllers, etc., enabling robust container management.
 
-Scaling and Load Balancing:
+**Scaling and Load Balancing:**
 
 Kubernetes uses YAML files for deployments, replica sets, and services.
 
 Default Kubernetes load balancing is basic (round-robin), but can be extended using custom resources and third-party solutions.
 
-Security and Extensions:
+**Security and Extensions:**
 
 Kubernetes is highly extensible with Custom Resource Definitions (CRDs).
 
@@ -71,6 +71,6 @@ Offers better security compared to raw Docker, but achieving complete enterprise
 
 ## Background on Kubernetes:
 
-Developed based on Google’s internal system called Borg.
+-Developed based on Google’s internal system called Borg.
 
-Kubernetes is open-source and managed by the CNCF (Cloud Native Computing Foundation) with contributions from the global community.
+-Kubernetes is open-source and managed by the CNCF (Cloud Native Computing Foundation) with contributions from the global community.
