@@ -1,5 +1,8 @@
 # Kubernetes Architecture
 
+![image](https://github.com/user-attachments/assets/b0793260-5048-4b6b-8b20-42fcd857f110)
+
+
 In this session, we dive into the Kubernetes Architecture with a focus on making complex concepts simple through real-world examples.
 
 ## Quick Fun Fact
