@@ -25,7 +25,7 @@ Auto-scaling (scale applications based on load)
 
 Enterprise-Level Support (advanced networking, security, load balancing)
 
-##Common Misunderstanding
+## Common Misunderstanding
 
 Many resources only describe Kubernetes as having a Control Plane and a Data Plane.
 
