@@ -1,6 +1,8 @@
-#Kubernetes Ingress
+# Kubernetes Ingress
 
-https://outshift-headless-cms-s3.s3.us-east-2.amazonaws.com/blog/k8s-ingress/ingress-fanout-1.png
+
+![image](https://github.com/user-attachments/assets/b5fec22b-dd38-479f-aee5-8b8f2e2d75d2)
+
 
 ## Why Ingress?
 
@@ -86,6 +88,8 @@ spec:
 •For that, map this domain to ip address in /etc/domains file.
 
 •Now when we ping this domain we get the response. 
+
+![image](https://github.com/user-attachments/assets/ef419c07-6dc0-415b-8165-c8dddc87052a)
 
 
 
