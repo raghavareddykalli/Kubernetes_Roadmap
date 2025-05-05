@@ -1,7 +1,6 @@
 # Introduction to Kubernetes RBAC (Role-Based Access Control)
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/b94bf445-c4a4-4c58-8557-02fd30ea09b8)
 
 This session covers the fundamentals of Kubernetes RBAC, its importance in security, and a step-by-step guide on using a **30-day free OpenShift cluster** for hands-on practice.
 
